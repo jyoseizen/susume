@@ -1,2 +1,2 @@
 # garbage
-garrbage
+garbage
