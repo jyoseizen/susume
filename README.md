@@ -48,7 +48,7 @@
 - 单行注释:Ctrl + /
 - 多行注释:Ctrl +Shift+ /
 
-2.### 关键字
+2. ### 关键字
 Java关键字是编程语言中的预定义的具有特殊含义的词汇,关键字字母全部小写,在编辑器中有特殊颜色标记
 - 修饰符关键字:public、protected、private、static、final、abstract
 - 访问控制关键字:public、protected、private、default（默认）
