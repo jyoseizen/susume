@@ -58,6 +58,7 @@ Java关键字是编程语言中的预定义的具有特殊含义的词汇,关键
 - 异常处理关键字:try、catch、finally、throw、throws
 - 逻辑关键字:true、false、null
 - 其他关键字:new、instanceof、synchronized、transient、volatile、assert
+
 **关键字有很多,没有必要去一一记忆**
   
 ### 3. 字面量
