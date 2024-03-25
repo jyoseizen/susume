@@ -1,5 +1,6 @@
 # 進み！
 ## what's this?
+>这里即使我的JavaLearningHistory，也是markdown实践场地
 > **Some birds are not close, because they are too bright.**
 > 
 > **Good Luck to myself**
@@ -12,9 +13,11 @@
 
 -[what's this?](#what'sthis?)
 
-### 计划清单
+### 计划清单(这里试用一下任务列表功能)
 
 - [小计划](#小计划)
+- [x] 活着
+- [ ] 死去
 - [中计划](#中计划)
 - [大计划](#大计划)
 
